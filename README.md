@@ -18,6 +18,14 @@ npm install
 
 ## Examples
 
+### Account seed
+
+```
+  Secret seed:      0x464483dd65fb6e6f171cb0ee059cc8e12c3966ffcbc340960ab13e89001e332d
+  Public key (hex): 0x03cbf84b7b9b052aa27ddc4ba6c15e1c04cb56c1d1d97764489c2718041602ee9a
+  Account ID:       0x2f7f4875b4a89aa445e0ebf03edcd8628c984f78
+```
+
 * transfer tBOL
 
 ```shell
